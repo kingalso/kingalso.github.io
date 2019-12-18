@@ -1,3 +1,9 @@
 _site/
-.sass-cache/
-.jekyll-cache/
+*.xml
+_site/index.html
+_site/index.html
+_site/sitemap.xml
+_site/writings/index.html
+_site/index.html
+_site/index.html
+_site/sitemap.xml

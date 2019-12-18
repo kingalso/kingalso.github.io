@@ -1,7 +1,4 @@
-site: Journal Jekyll Theme
-
-url: 
-baseurl: 
+site: News From Inner Space
 
 collections:
   pages:
@@ -13,6 +10,15 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  travels:
+    output: true
+    permalink: /travel/:slug
+  arts:
+    output: true
+    permalink: /art/:slug
+  writings:
+    output: true
+    permalink: /writing/:slug
 
 defaults:
   -
@@ -38,6 +44,24 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  -    
+    scope:
+      path: ""
+      type: "travels"
+    values:
+      layout: "project"
+  -    
+    scope:
+      path: ""
+      type: "arts"
+    values:
+      layout: "project"
+  -     
+    scope:
+      path: ""
+      type: "writings"
+    values:
+      layout: "project"      
 
 markdown: kramdown
 
