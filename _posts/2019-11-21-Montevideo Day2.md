@@ -1,7 +1,7 @@
 ---
 title: 'מונטוידאו 2019 פרק ב - שווקים שבאים אלייך הביתה'
 date: 2019-11-21 00:00:00
-featured_image: '/images/MVD/IMG_8974.jpeg'
+featured_image: '/images/MVD/markets/IMG_8974.jpeg'
 excerpt: 'במונטוידאו כמו בכל עיר אירופאית שמכבדת את עצמה יש שווקים המתמקמים בשכונות שונות בימים שונים של השבוע' 
 category: Travel
 tags: [Montevideo, Y2019]
@@ -12,15 +12,15 @@ tags: [Montevideo, Y2019]
 </p>
 
 <div class="gallery" data-columns="3">
-	<img src="/images/MVD/IMG_8956.jpeg">
-	<img src="/images/MVD/IMG_8964.jpeg">
-	<img src="/images/MVD/IMG_8968.jpeg">
-	<img src="/images/MVD/IMG_8983.jpeg">
-	<img src="/images/MVD/IMG_8986.jpeg">
-	<img src="/images/MVD/IMG_9244.jpeg">
-	<img src="/images/MVD/IMG_9247.jpeg">
-	<img src="/images/MVD/IMG_9255.jpeg">
-	<img src="/images/MVD/IMG_9263.jpeg">	
+	<img src="/images/MVD/markets/IMG_8956.jpeg">
+	<img src="/images/MVD/markets/IMG_8964.jpeg">
+	<img src="/images/MVD/markets/IMG_8968.jpeg">
+	<img src="/images/MVD/markets/IMG_8983.jpeg">
+	<img src="/images/MVD/markets/IMG_8986.jpeg">
+	<img src="/images/MVD/markets/IMG_9244.jpeg">
+	<img src="/images/MVD/markets/IMG_9247.jpeg">
+	<img src="/images/MVD/markets/IMG_9255.jpeg">
+	<img src="/images/MVD/markets/IMG_9263.jpeg">	
 </div>
 
 ---

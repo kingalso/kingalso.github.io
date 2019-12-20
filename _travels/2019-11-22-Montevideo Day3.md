@@ -1,7 +1,7 @@
 ---
 title: 'מונטווידאו 2019 פרק ג - צ׳וריסו אחד ביום'
 date: 2019-11-22 00:00:00
-featured_image: '/images/MVD/Day3/IMG_9196.jpeg'
+featured_image: '/images/MVD/food/IMG_9196.jpeg'
 excerpt: 'בדרך כלל שמטיילים, מתעוררת בסביבות השעה אחת עשרה, השאלה הקריטית ״איפה ומה אוכלים היום ?״' 
 category: Travel
 tags: [Montevideo, Y2019]
@@ -12,12 +12,19 @@ tags: [Montevideo, Y2019]
 </p>
 
 <div class="gallery" data-columns="3">
-	<img src="/images/MVD/Day3/IMG_9196.jpeg">
-	<img src="/images/MVD/Day3/IMG_9009.jpeg">
-	<img src="/images/MVD/Day3/IMG_9014.jpeg">
-	<img src="/images/MVD/Day3/IMG_9217.jpeg">
-	<img src="/images/MVD/Day3/IMG_8940.jpeg">
-	<img src="/images/MVD/Day3/IMG_9177.jpeg">
+	<img src="/images/MVD/food/IMG_9196.jpeg">
+	<img src="/images/MVD/food/IMG_9009.jpeg">
+	<img src="/images/MVD/food/IMG_9014.jpeg">
+	<img src="/images/MVD/food/IMG_9217.jpeg">
+	<img src="/images/MVD/food/IMG_8940.jpeg">
+	<img src="/images/MVD/food/IMG_9177.jpeg">
+	<img src="/images/MVD/food/IMG_9008.jpeg">
+	<img src="/images/MVD/food/IMG_9416.jpeg">
+	<img src="/images/MVD/food/IMG_9296.jpeg">
+	<img src="/images/MVD/food/IMG_9218.jpeg">
+	<img src="/images/MVD/food/IMG_9007.jpeg">
+
+	
 </div>
 
 ---

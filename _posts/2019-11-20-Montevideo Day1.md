@@ -1,7 +1,7 @@
 ---
 title: 'מונטווידאו 2019 פרק א - מדרכות שבורות בדרך למוזיאונים מעולים'
 date: 2019-11-20 00:00:00
-featured_image: '/images/MVD/IMG_8943.jpeg'
+featured_image: '/images/MVD/museums/IMG_8943.jpeg'
 excerpt: 'מונטוידאו בירת אורוגואי היא מקום מקסים ומבלבל גם עבור מי שלא כמותי, אין זו עיר הולדתו' 
 category: Travel
 tags: [Montevideo, Y2019]
@@ -15,13 +15,13 @@ tags: [Montevideo, Y2019]
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/MVD/IMG_9082.jpeg">
-	<img src="/images/MVD/IMG_8943.jpeg">
-	<img src="/images/MVD/IMG_9032.jpeg">
-	<img src="/images/MVD/IMG_9318.jpeg">
-	<img src="/images/MVD/IMG_9328.jpeg">
-	<img src="/images/MVD/IMG_9363.jpeg">
-	<img src="/images/MVD/IMG_9422.jpeg">
+	<img src="/images/MVD/museums/IMG_9082.jpeg">
+	<img src="/images/MVD/museums/IMG_8943.jpeg">
+	<img src="/images/MVD/museums/IMG_9032.jpeg">
+	<img src="/images/MVD/museums/IMG_9318.jpeg">
+	<img src="/images/MVD/museums/IMG_9328.jpeg">
+	<img src="/images/MVD/museums/IMG_9363.jpeg">
+	<img src="/images/MVD/museums/IMG_9422.jpeg">
 	
 </div>
 
