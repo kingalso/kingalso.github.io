@@ -9,7 +9,7 @@ tags: [Israel, Hiking, Y2019]
 ![](/images/Israel Travels/IMG_5955)
 
 טיול קצר בדרגת קושי קלה-בינונית של שעתיים שלוש. חפשו קישור לאתר קקל בהמשך
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="1">
 	<img src="/images/Israel/IMG_5939.jpeg">
 	<img src="/images/Israel/IMG_5942.jpeg">
 	<img src="/images/Israel/IMG_5943.jpeg">
