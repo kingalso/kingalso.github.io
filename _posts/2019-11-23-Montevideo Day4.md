@@ -3,8 +3,8 @@ title: 'מונטווידאו 2019 יום רביעי - על אמנות מקומי
 date: 2019-11-23 00:00:00
 featured_image: '/images/MVD/art/IMG_9026.jpeg'
 excerpt: 'חואן מנואל בליינס הוא הצייר הלאומי של אורוגואי שהתמזל מזלה להתברך בו בתקופה שבה התגבשה' 
-category: Travel
-tags: [Montevideo, Y2019]
+category: Travel, Art
+tags: [Montevideo, Y2019, Art]
 ---
 
 <h4 align="right"><strong>Juan Manuel Blanes (1830-1901) הצייר הלאומי של אורוגואי והאם אפשר לצייר כך ללא זיכרון צילומי</strong>
