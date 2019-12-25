@@ -70,7 +70,6 @@ tags: [Montevideo, Y2019, Art]
 	<img src="/images/MVD/art/IMG_9422.jpeg">
 	<img src="/images/MVD/art/IMG_9441.jpeg">
 	<img src="/images/MVD/art/IMG_9444.jpeg">
-	<img src="/images/MVD/art/IMG_9447.jpeg">
 </div>
 
 <h4 align="right"><strong> ולסיום מתנה - עבודה של מאוריס אוטרילו במוזיאון בליינס</strong></h4>
@@ -81,7 +80,7 @@ tags: [Montevideo, Y2019, Art]
 	<img src="/images/MVD/art/IMG_9314.jpeg">
 </div>
 
-<h4 align="right">קישורים</h4>
+<h4 align="right"><strong>קישורים</strong></h4>
 
 [Museo Blanes](http://blanes.montevideo.gub.uy)
 
