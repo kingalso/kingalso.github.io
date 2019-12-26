@@ -1,7 +1,7 @@
 ---
 title: 'מונטווידאו 2019 יום שישי - בית הקברות היהודי לה פאז'
 date: 2019-11-25 00:00:00
-featured_image: '/images/MVD/lapaz/IMG_9149.jpeg'
+featured_image: '/images/MVD/lapaz/IMG_9140.jpeg'
 excerpt: 'אני לא יודע למה אבל בביקור האחרון שלי במונטווידאו רציתי גם לבקר בבית הקברות היהודי ולראות ' 
 category: Travel
 tags: [Montevideo, Y2019]
