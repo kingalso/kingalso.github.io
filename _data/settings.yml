@@ -22,10 +22,10 @@ menu_settings:
       url: '/writings/'
     - title: 'Tags'
       url: '/tag'
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+#    - title: 'About'
+#      url: '/about'
+#    - title: 'Contact'
+#      url: '/contact'
 
 grid_settings:
   grid_spacing: 10
