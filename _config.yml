@@ -78,4 +78,7 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
+
+#Facebook Sharing
+facebook_app_id: 238963320522156
   
