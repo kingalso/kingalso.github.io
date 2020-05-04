@@ -20,8 +20,10 @@ layout: default
 
 		{{ page.content }}
 		
-		{% include share.html %} 
-
+		<div class="post-nav">
+			{% include share.html %} 
+		</div>
+		
 		<div class="post-nav">
   			<div>
     			{% if page.previous.url %}
