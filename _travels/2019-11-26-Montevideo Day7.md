@@ -38,4 +38,7 @@ tags: [Montevideo, Y2019, Art, MyArt]
 		
 </div>
 
+
+{% include share.html %} 
+
 ---

@@ -37,7 +37,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'https://www.facebook.com/joe.paciuk'
   twitter_url: ''
   instagram_url: ''
   snapchat_url: ''
@@ -50,7 +50,7 @@ social_settings:
   amazon_url: ''
   apple_url: ''
   android_url: ''
-  tumblr_url: ''
+  tumblr_url: 'https://elpachuko.tumblr.com'
   dribbble_url: ''
   behance_url: ''
   deviantart_url: ''
