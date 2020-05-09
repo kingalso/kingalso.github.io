@@ -27,4 +27,6 @@ tags: [Montevideo, Y2019]
 	
 </div>
 
+{% include share.html %} 
+
 ---

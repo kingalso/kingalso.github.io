@@ -41,4 +41,6 @@ tags: [Montevideo, Y2019]
 	<img src="/images/MVD/streets/IMG_9420.jpeg">
 </div>
 
+{% include share.html %} 
+
 ---
