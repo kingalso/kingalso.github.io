@@ -41,4 +41,6 @@ tags: [Montevideo, Y2019]
 
 <iframe src="https://www.google.com/maps/d/embed?mid=11rgdX78gA9s3MDpv1UHAaUUsnS5inF73" width="640" height="480"></iframe>
 
+{% include share.html %} 
+
 ---
