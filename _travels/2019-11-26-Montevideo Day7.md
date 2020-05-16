@@ -14,7 +14,7 @@ tags: [Montevideo, Y2019, Art, MyArt]
 
 <div class="gallery" data-columns="2">
 	<img src="/images/MVD/MyArt/pocitosmarketvendor.jpeg">
-	<img src="/images/MVD/MyArt/tristan - street.jpeg">
+	<img src="/images/MVD/MyArt/tristan-street.jpeg">
 	<img src="/images/MVD/MyArt/bus stand.jpeg">
 	<img src="/images/MVD/MyArt/elederly.jpeg">
 	<img src="/images/MVD/MyArt/bar closeup.jpeg">
