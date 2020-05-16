@@ -15,25 +15,25 @@ tags: [Montevideo, Y2019, Art, MyArt]
 <div class="gallery" data-columns="2">
 	<img src="/images/MVD/MyArt/pocitosmarketvendor.jpeg">
 	<img src="/images/MVD/MyArt/tristan-street.jpeg">
-	<img src="/images/MVD/MyArt/bus stand.jpeg">
+	<img src="/images/MVD/MyArt/bus-stand.jpeg">
 	<img src="/images/MVD/MyArt/elederly.jpeg">
-	<img src="/images/MVD/MyArt/bar closeup.jpeg">
+	<img src="/images/MVD/MyArt/bar-closeup.jpeg">
 	<img src="/images/MVD/MyArt/homecoming.jpeg">
-	<img src="/images/MVD/MyArt/jose marti - street view.jpeg">
-	<img src="/images/MVD/MyArt/pocitos vegetable stand.jpeg">
-	<img src="/images/MVD/MyArt/pocitos cheesde stand.jpeg">
+	<img src="/images/MVD/MyArt/josemarti-streetview.jpeg">
+	<img src="/images/MVD/MyArt/pocitos-vegetable-stand.jpeg">
+	<img src="/images/MVD/MyArt/pocitos-cheesde-stand.jpeg">
 	<img src="/images/MVD/MyArt/grillman.jpeg">
-	<img src="/images/MVD/MyArt/jose marti sea view.jpeg">
-	<img src="/images/MVD/MyArt/Parque Rodo House entrance.jpeg">
+	<img src="/images/MVD/MyArt/josemarti-seaview.jpeg">
+	<img src="/images/MVD/MyArt/ParqueRodo-Houseentrance.jpeg">
 	<img src="/images/MVD/MyArt/commercial.jpeg">
-	<img src="/images/MVD/MyArt/La bandera.jpeg">
-	<img src="/images/MVD/MyArt/inside bar.jpeg">
-	<img src="/images/MVD/MyArt/ice cream parlor.jpeg">
-	<img src="/images/MVD/MyArt/woman and dog.jpeg">
-	<img src="/images/MVD/MyArt/tristan bookshop.jpeg">
-	<img src="/images/MVD/MyArt/prado street art.jpeg">
-	<img src="/images/MVD/MyArt/provision in prado.jpeg">
-	<img src="/images/MVD/MyArt/parque rodo.jpeg">
+	<img src="/images/MVD/MyArt/La-bandera.jpeg">
+	<img src="/images/MVD/MyArt/inside-bar.jpeg">
+	<img src="/images/MVD/MyArt/icecream-parlor.jpeg">
+	<img src="/images/MVD/MyArt/womananddog.jpeg">
+	<img src="/images/MVD/MyArt/tristan-bookshop.jpeg">
+	<img src="/images/MVD/MyArt/prado-street-art.jpeg">
+	<img src="/images/MVD/MyArt/provision-in-prado.jpeg">
+	<img src="/images/MVD/MyArt/parquerodo.jpeg">
 	
 		
 </div>
