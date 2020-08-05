@@ -19,9 +19,6 @@ collections:
   writings:
     output: true
     permalink: /writing/:slug
-  history:
-    output: true
-    permalink: /history/:slug
 
 defaults:
   -
@@ -64,14 +61,7 @@ defaults:
       path: ""
       type: "writings"
     values:
-      layout: "project"
-      
--     
-    scope:
-      path: ""
-      type: "history"
-    values:
-      layout: "project"     
+      layout: "project"      
 
 markdown: kramdown
 
