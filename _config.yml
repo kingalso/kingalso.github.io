@@ -64,7 +64,6 @@ defaults:
       path: ""
       type: "writings"
     values:
-      layout: "project"      
       layout: "project"
   -     
     scope:
