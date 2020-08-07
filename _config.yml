@@ -19,7 +19,7 @@ collections:
   writings:
     output: true
     permalink: /writing/:slug
-  history:
+  histories:
     output: true
     permalink: /history/:slug    
 
@@ -68,7 +68,7 @@ defaults:
   -     
     scope:
       path: ""
-      type: "history"
+      type: "histories"
     values:
       layout: "project"        
 
