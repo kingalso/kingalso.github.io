@@ -19,9 +19,6 @@ collections:
   writings:
     output: true
     permalink: /writing/:slug
-  histories:
-    output: true
-    permalink: /history/:slug    
 
 defaults:
   -

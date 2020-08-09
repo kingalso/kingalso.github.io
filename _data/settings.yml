@@ -20,8 +20,6 @@ menu_settings:
       url: '/arts/'
     - title: 'Writings'
       url: '/writings/'
-    - title: 'History'
-      url: '/history'
     - title: 'Tags'
       url: '/tag'
 
