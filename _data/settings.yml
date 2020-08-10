@@ -20,14 +20,8 @@ menu_settings:
       url: '/arts/'
     - title: 'Writings'
       url: '/writings/'
-    - title: 'History'
-<<<<<<< HEAD
-      url: '/historys/'      
-=======
-      url: '/history'
->>>>>>> parent of 389470f... before history
     - title: 'Tags'
-      url: '/tag'
+      url: '/tag/'
 
 #    - title: 'About'
 #      url: '/about'
