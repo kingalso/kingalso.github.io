@@ -21,10 +21,8 @@ menu_settings:
     - title: 'Writings'
       url: '/writings/'
     - title: 'Tags'
-      url: '/tag'
-    - title: 'History'
-      url: '/histories/'
-      
+      url: '/tag/'
+
 #    - title: 'About'
 #      url: '/about'
 #    - title: 'Contact'
