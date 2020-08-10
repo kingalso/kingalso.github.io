@@ -19,9 +19,15 @@ collections:
   writings:
     output: true
     permalink: /writing/:slug
+<<<<<<< HEAD
   historys:
     output: true
     permalink: /history/:slug
+=======
+  histories:
+    output: true
+    permalink: /history/:slug    
+>>>>>>> parent of 389470f... before history
 
 defaults:
   -

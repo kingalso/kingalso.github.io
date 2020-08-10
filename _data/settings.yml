@@ -21,7 +21,11 @@ menu_settings:
     - title: 'Writings'
       url: '/writings/'
     - title: 'History'
+<<<<<<< HEAD
       url: '/historys/'      
+=======
+      url: '/history'
+>>>>>>> parent of 389470f... before history
     - title: 'Tags'
       url: '/tag'
 
