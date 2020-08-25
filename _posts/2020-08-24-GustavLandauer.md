@@ -7,7 +7,7 @@ category: History
 tags: [History, Y2020, Jewish]
 ---
 
-<h3 align="right"><strong>גוסטב לנדוור Gustav Landauer</strong></h3>
+<h3 align="right"><strong>אנארכיסט יהודי 1870-1919</strong></h3>
 
 <div class="gallery" data-columns="1">
 	<img src="/images/history/landauer.jpeg">
