@@ -20,7 +20,7 @@ tags: [History, Y2020, Jewish]
 ולטר בנימין נולד ב 1892, בן בכור משלושה ילדים במשפחה יהודית אמידה ומתבוללת בברלין. עוד בתיכון התחיל לפרסם מאמרים במסגרת תנועת הנוער על נושאי חינוך ותרבות, השתתף בכנסים רעיוניים של התנועה בראשות המחנך הגרמני Wyneken, והיה פעיל בה גם בזמן שלמד באוניברסיטה עד שהתנתק ממנה לאחר קריאתו הפטריוטית של Wyneken לגיוס הצעירים למלחמת העולם הראשונה.
 </p>
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="1">
 	<img src="/images/history/WB3.png">
 </div>
 
@@ -38,7 +38,7 @@ tags: [History, Y2020, Jewish]
 ב 1917 הוא נשא לאישה את דורה קלנר היהודייה, ששנים שמשה עזר כנגדו בארגון החיים המעשיים, בגידול בנם המשותף כמעט לבדה, בתמיכה אינטקטואלית, וגם אחרי שעזב את הבית ושנים אחר כך גם אחרי גירושיהם המכוערים היא עדיין המשיכה לתמוך בו נפשית אינלקטואלית וכלכלית.
 </p>
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="1">
 	<img src="/images/history/Dora.png">
 </div>
 
@@ -73,7 +73,7 @@ tags: [History, Y2020, Jewish]
 </p> 
 
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="1">
 	<img src="/images/history/Asja.png">
 </div>
 

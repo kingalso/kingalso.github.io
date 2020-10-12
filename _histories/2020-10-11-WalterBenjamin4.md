@@ -18,7 +18,7 @@ tags: [History, Y2020, Jewish]
 </strong>
 
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="1">
 	<img src="/images/history/WB6.jpg">
 </div>
 
@@ -33,7 +33,7 @@ tags: [History, Y2020, Jewish]
 מקומות אחרים בהם שהה בשנים אלה היו אצל ברכט ופמלייתו בדנמרק, שם שהה בתקופות הקיץ בשנים 1934, 1936 ו1938, (שם גם ניסה לקבל מעמד רשמי של פליט ללא הצלחה), ואצל גרושתו בסן רמו שבצפון איטליה.
 </p>
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="1">
 	<img src="/images/history/WB7.jpg">
 </div>
 
@@ -49,7 +49,7 @@ tags: [History, Y2020, Jewish]
 לפני שנס מפאריז הפקיד את רב כתביו בידי Bataille שהפקיד אותם בספרייה הלאומית ואחרי המלחמה שלח אותם לארצות הברית לאדורנו שיזם את פרסומם. חלק מן הכתבים שנמסרו ל Bataille נמצאו שנים רבות אחרי המלחמה כחלק מן הארכיון של Bataille  בספרייה הלאומית ופורסמו על ידי אוניברסיטת הרווארד ב 1999. גם גרשום שולם וגם תיאודור אדורנו פרסמו חלקים נרחבים מחליפת המכתבים ביניהם לבין בנימין.
 </p>
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="1">
 	<img src="/images/history/WB8.png">
 </div>
 
